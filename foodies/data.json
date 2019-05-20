@@ -1,0 +1,2745 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.55.5 2ca3f387",
+  "osm3s": {
+    "timestamp_osm_base": "2019-01-17T03:11:02Z",
+    "timestamp_areas_base": "2019-01-17T02:19:02Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+    {
+      "type": "node",
+      "id": 534808144,
+      "lat": 36.298147,
+      "lon": -115.2707778,
+      "tags": {
+        "amenity": "restaurant",
+        "name": "Luckys Lounge"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1221405037,
+      "lat": 36.1746298,
+      "lon": -115.1452909,
+      "tags": {
+        "amenity": "restaurant",
+        "name": "Garden Court Buffet"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1580029658,
+      "lat": 36.2385515,
+      "lon": -115.2482826,
+      "tags": {
+        "addr:housenumber": "7071",
+        "addr:postcode": "89129",
+        "addr:street": "Craig Road",
+        "amenity": "restaurant",
+        "name": "Denny's",
+        "opening_hours": "24/7",
+        "phone": "17023959116",
+        "website": "http://www.dennys.com"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1633188020,
+      "lat": 36.1526592,
+      "lon": -115.2075277,
+      "tags": {
+        "amenity": "restaurant"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1633188032,
+      "lat": 36.1533696,
+      "lon": -115.2073882,
+      "tags": {
+        "amenity": "restaurant"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1941751932,
+      "lat": 36.1523451,
+      "lon": -115.1546374,
+      "tags": {
+        "amenity": "restaurant",
+        "name": "Amancer"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1941781845,
+      "lat": 36.1571269,
+      "lon": -115.1539293,
+      "tags": {
+        "amenity": "restaurant",
+        "name": "Casa Don Juan"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2021874641,
+      "lat": 36.272456,
+      "lon": -115.2667702,
+      "tags": {
+        "amenity": "restaurant",
+        "cuisine": "sushi",
+        "name": "Sushi Loca",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2021875255,
+      "lat": 36.2714181,
+      "lon": -115.266502,
+      "tags": {
+        "amenity": "restaurant",
+        "cuisine": "burger",
+        "name": "Red Robin",
+        "toilets:wheelchair": "yes",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2140652623,
+      "lat": 36.298571,
+      "lon": -115.279924,
+      "tags": {
+        "addr:housenumber": "7570",
+        "addr:street": "Norman Rockwell Ln.",
+        "amenity": "restaurant",
+        "name": "Streets of New York"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2142151360,
+      "lat": 36.168749,
+      "lon": -115.139889,
+      "tags": {
+        "addr:housenumber": "523",
+        "addr:street": "Fremont Street",
+        "amenity": "restaurant",
+        "cuisine": "thai",
+        "drive_in": "no",
+        "internet_access": "no",
+        "internet_access:fee": "no",
+        "microbrewery": "no",
+        "name": "Le Thai",
+        "outdoor_seating": "yes",
+        "smoking": "no",
+        "takeaway": "yes",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2142152213,
+      "lat": 36.1694924,
+      "lon": -115.1408104,
+      "tags": {
+        "addr:city": "Las Vegas",
+        "addr:housenumber": "450",
+        "addr:postcode": "89101",
+        "addr:street": "Fremont St",
+        "amenity": "restaurant",
+        "cuisine": "american",
+        "name": "Heart Attack Grill",
+        "website": "http://www.heartattackgrill.com/index.html"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2143523656,
+      "lat": 36.1668849,
+      "lon": -115.1390589,
+      "tags": {
+        "amenity": "restaurant",
+        "name": "eat.",
+        "website": "eatdowntownlv.com"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2144674589,
+      "lat": 36.1714399,
+      "lon": -115.1468378,
+      "tags": {
+        "amenity": "restaurant",
+        "name": "Island Sushi & Hawaiian Grill"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2146969419,
+      "lat": 36.169961,
+      "lon": -115.1414844,
+      "tags": {
+        "amenity": "restaurant",
+        "name": "Denny's"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2148184438,
+      "lat": 36.1689735,
+      "lon": -115.1404268,
+      "tags": {
+        "addr:housenumber": "505",
+        "addr:street": "Fremont Street",
+        "amenity": "restaurant",
+        "cuisine": "pizza",
+        "name": "Uncle Joe's"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2149942888,
+      "lat": 36.1689857,
+      "lon": -115.1403584,
+      "tags": {
+        "addr:housenumber": "507",
+        "addr:street": "Fremont Street",
+        "amenity": "restaurant",
+        "cuisine": "kebab",
+        "name": "Kabob Korner"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2161291763,
+      "lat": 36.1718348,
+      "lon": -115.1420796,
+      "tags": {
+        "amenity": "restaurant",
+        "name": "Triple George Grill"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2162916504,
+      "lat": 36.169598,
+      "lon": -115.145555,
+      "tags": {
+        "amenity": "restaurant",
+        "name": "Carson Street Cafe"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2162916505,
+      "lat": 36.1702745,
+      "lon": -115.145883,
+      "tags": {
+        "amenity": "restaurant",
+        "name": "Chart House"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2162916506,
+      "lat": 36.1693651,
+      "lon": -115.145702,
+      "tags": {
+        "amenity": "restaurant",
+        "name": "Lillie's Asian Cuisine"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2162916507,
+      "lat": 36.1717823,
+      "lon": -115.1465679,
+      "tags": {
+        "amenity": "restaurant",
+        "name": "Oscar's"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2162916508,
+      "lat": 36.1705139,
+      "lon": -115.1455799,
+      "tags": {
+        "amenity": "restaurant",
+        "name": "Red Sushi"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2162916509,
+      "lat": 36.1704086,
+      "lon": -115.1451306,
+      "tags": {
+        "amenity": "restaurant",
+        "name": "Vic & Anthony's"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2168310883,
+      "lat": 36.1691697,
+      "lon": -115.1401189,
+      "tags": {
+        "addr:housenumber": "508",
+        "addr:postcode": "89101",
+        "addr:street": "E. Fremont Street",
+        "amenity": "restaurant",
+        "cuisine": "pizza",
+        "name": "Radio City Pizza",
+        "opening_hours": "Su-Th 11:00-24:00; Fr-Sa 11:00-04:00",
+        "phone": "+1 702 9825055",
+        "website": "radiocitypizza.com"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2175964308,
+      "lat": 36.167815,
+      "lon": -115.20518,
+      "tags": {
+        "addr:housenumber": "431",
+        "addr:postcode": "89107",
+        "addr:street": "South Decatur Boulevard",
+        "amenity": "restaurant",
+        "name": "Lou's Diner",
+        "opening_hours": "Mo-Su 05:30-15:00"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2178810809,
+      "lat": 36.1681441,
+      "lon": -115.1440801,
+      "tags": {
+        "amenity": "restaurant",
+        "name": "El Gaucho Luca Cafe"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2180411037,
+      "lat": 36.1573395,
+      "lon": -115.1481999,
+      "tags": {
+        "addr:housenumber": "1145",
+        "addr:street": "Las Vegas Blvd South",
+        "alt_name": "Cuban Restaurant",
+        "amenity": "restaurant",
+        "cuisine": "cuban",
+        "name": "Rincon Criollo",
+        "phone": "+1 702 388 1906"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2296641037,
+      "lat": 36.17002,
+      "lon": -115.1399689,
+      "tags": {
+        "amenity": "restaurant",
+        "name": "Rachel's Kitchen"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2296641038,
+      "lat": 36.1692127,
+      "lon": -115.1401946,
+      "tags": {
+        "amenity": "restaurant",
+        "name": "Park"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2296641039,
+      "lat": 36.1684636,
+      "lon": -115.1398961,
+      "tags": {
+        "amenity": "restaurant",
+        "cuisine": "mexican",
+        "name": "La Comida"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2562441785,
+      "lat": 36.1700687,
+      "lon": -115.1395302,
+      "tags": {
+        "addr:city": "Las Vegas",
+        "addr:housename": "Suite 120",
+        "addr:housenumber": "150",
+        "addr:postcode": "89101",
+        "addr:street": "North Las Vegas Boulevard",
+        "amenity": "restaurant",
+        "cuisine": "pizza",
+        "name": "Wild",
+        "phone": "702-527-7717"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2590259775,
+      "lat": 36.218796,
+      "lon": -115.2444491,
+      "tags": {
+        "addr:housenumber": "6850",
+        "addr:postcode": "89108",
+        "addr:street": "West Cheyenne Avenue",
+        "amenity": "restaurant",
+        "cuisine": "italian",
+        "name": "Olive Garden",
+        "opening_hours": "Su-Th 11:00-22:00; Fr-Sa 11:00-23:00",
+        "phone": "7026582144",
+        "website": "http://www.olivegarden.com"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2600878858,
+      "lat": 36.1679884,
+      "lon": -115.2868842,
+      "tags": {
+        "addr:city": "Las Vegas",
+        "addr:housenumber": "420",
+        "addr:postcode": "89145",
+        "addr:street": "South Rampart Boulevard",
+        "amenity": "restaurant",
+        "cuisine": "international",
+        "name": "The Crepe",
+        "note": "Suite #150",
+        "payment:bitcoin": "yes",
+        "phone": "702-441-0719",
+        "website": "http://thecrepelasvegas.com"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2611292855,
+      "lat": 36.170334,
+      "lon": -115.1416285,
+      "tags": {
+        "addr:housenumber": "113",
+        "addr:postcode": "89101",
+        "addr:street": "Las Vegas Boulevard North",
+        "amenity": "restaurant",
+        "cuisine": "tex-mex",
+        "name": "Nacho Daddy",
+        "website": "http://www.nachodaddy.com"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2611292856,
+      "lat": 36.1715961,
+      "lon": -115.1422478,
+      "tags": {
+        "addr:housenumber": "201",
+        "addr:postcode": "89101",
+        "addr:street": "North 3rd Street",
+        "amenity": "restaurant",
+        "internet_access": "wlan",
+        "name": "Pizza Rock - Downtown",
+        "opening_hours": "Su-Th 11:00-00:00; Fr-Sa 11:00-02:00",
+        "phone": "17023850838",
+        "website": "http://www.pizzarocklasvegas.com"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2624941578,
+      "lat": 36.1822163,
+      "lon": -115.2602385,
+      "tags": {
+        "addr:housenumber": "921",
+        "addr:postcode": "89128",
+        "addr:street": "Buffalo Drive",
+        "amenity": "restaurant",
+        "cuisine": "american",
+        "internet_access": "wlan",
+        "name": "Roadrunner",
+        "opening_hours": "24/7",
+        "phone": "17022825636",
+        "website": "http://www.roadrunner.com"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2645244780,
+      "lat": 36.1695221,
+      "lon": -115.1427481,
+      "tags": {
+        "addr:city": "Las Vegas",
+        "addr:housenumber": "301",
+        "addr:postcode": "89101",
+        "addr:street": "Fremont Street Experience",
+        "amenity": "restaurant",
+        "cuisine": "italian",
+        "name": "Andiamo Italian Steakhouse",
+        "payment:bitcoin": "yes",
+        "phone": "+1 702 388 2220",
+        "website": "http://www.thed.com/dining/andiamo-steakhouse/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2645245665,
+      "lat": 36.1695177,
+      "lon": -115.1428393,
+      "tags": {
+        "addr:city": "Las Vegas",
+        "addr:housenumber": "301",
+        "addr:postcode": "89101",
+        "addr:street": "Fremont Street Experience",
+        "amenity": "restaurant",
+        "cuisine": "american",
+        "name": "American Coney Island",
+        "payment:bitcoin": "yes",
+        "phone": "+1 702 388 2120",
+        "website": "http://www.thed.com/dining/american-coney-island-2/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2669698757,
+      "lat": 36.1695613,
+      "lon": -115.1425227,
+      "tags": {
+        "addr:city": "Las Vegas",
+        "addr:housenumber": "301",
+        "addr:postcode": "89101",
+        "addr:street": "Fremont Street Experience",
+        "amenity": "restaurant",
+        "name": "D Grill",
+        "payment:bitcoin": "yes",
+        "phone": "+1 702 388 2400",
+        "website": "http://www.thed.com/dining/the-d-grill/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2735776351,
+      "lat": 36.1625227,
+      "lon": -115.0625771,
+      "tags": {
+        "amenity": "restaurant",
+        "cuisine": "asian",
+        "name": "Buffet @ Asia"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2802563663,
+      "lat": 36.1446443,
+      "lon": -115.2739655,
+      "tags": {
+        "addr:housenumber": "8390",
+        "addr:postcode": "89117",
+        "addr:street": "West Sahara Avenue",
+        "amenity": "restaurant",
+        "name": "La Belle Terre French Bakery",
+        "opening_hours": "Mo-Su 07:00-18:00",
+        "phone": "17026857712",
+        "website": "http://www.labelleterre.com"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2802579246,
+      "lat": 36.1450515,
+      "lon": -115.2732896,
+      "tags": {
+        "addr:street": "A Sahara Avenue",
+        "amenity": "restaurant",
+        "name": "Payment's Mediterranean Restaurant and Hookah Lounge"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3148315315,
+      "lat": 36.1597001,
+      "lon": -115.1713471,
+      "tags": {
+        "addr:city": "Las Vegas",
+        "addr:housenumber": "2160",
+        "addr:state": "NV",
+        "addr:street": "West Charleston Boulevard",
+        "amenity": "restaurant",
+        "cuisine": "omelet",
+        "name": "Omelet House"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3678389982,
+      "lat": 36.1530571,
+      "lon": -115.150968,
+      "tags": {
+        "amenity": "restaurant",
+        "cuisine": "pizza",
+        "name": "Boston Pizza"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3678389984,
+      "lat": 36.1547809,
+      "lon": -115.149904,
+      "tags": {
+        "amenity": "restaurant",
+        "cuisine": "cuban",
+        "name": "Florida Cafe Cuban Bar & Grill"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3697422825,
+      "lat": 36.159412,
+      "lon": -115.350636,
+      "tags": {
+        "amenity": "restaurant",
+        "cuisine": "chinese",
+        "name": "China One",
+        "outdoor_seating": "no",
+        "takeaway": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3834980728,
+      "lat": 36.1744211,
+      "lon": -115.0638465,
+      "tags": {
+        "amenity": "restaurant",
+        "cuisine": "thai",
+        "name": "Thai Cuisine"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3835157974,
+      "lat": 36.1800782,
+      "lon": -115.0629652,
+      "tags": {
+        "amenity": "restaurant",
+        "cuisine": "mexican",
+        "name": "Tacos Los Toritos"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3835157992,
+      "lat": 36.1736177,
+      "lon": -115.0647869,
+      "tags": {
+        "amenity": "restaurant",
+        "name": "The Blue Skillet"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3835158057,
+      "lat": 36.167696,
+      "lon": -115.0637762,
+      "tags": {
+        "addr:city": "Las Vegas",
+        "addr:housenumber": "313",
+        "addr:postcode": "89110",
+        "addr:street": "North Nellis Boulevard",
+        "amenity": "restaurant",
+        "name": "Hibachi Grill and Supreme Buffet",
+        "phone": "(702) 531-8588",
+        "takeaway": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3835158058,
+      "lat": 36.1669406,
+      "lon": -115.0636655,
+      "tags": {
+        "amenity": "restaurant",
+        "cuisine": "pizza",
+        "name": "CiCi's Pizza"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3835158061,
+      "lat": 36.1657305,
+      "lon": -115.0626498,
+      "tags": {
+        "amenity": "restaurant",
+        "cuisine": "mexican",
+        "name": "Los Burritos"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3861630765,
+      "lat": 36.1990137,
+      "lon": -115.2434374,
+      "tags": {
+        "amenity": "restaurant",
+        "cuisine": "japanese",
+        "name": "Ohjah Japanese Steakhouse",
+        "phone": "(702) 361-8888"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3861630766,
+      "lat": 36.1994258,
+      "lon": -115.2425383,
+      "tags": {
+        "amenity": "restaurant",
+        "cuisine": "chinese",
+        "name": "China A Go Go"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3861630887,
+      "lat": 36.1987739,
+      "lon": -115.2426159,
+      "tags": {
+        "addr:housenumber": "2011",
+        "addr:postcode": "89108",
+        "addr:street": "North Rainbow Boulevard",
+        "amenity": "restaurant",
+        "name": "Chili's",
+        "opening_hours": "Su-Th 10:45-22:00; Fr-Sa 10:45-23:00",
+        "phone": "17026381438",
+        "website": "http://www.chilis.com"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3861630888,
+      "lat": 36.1980498,
+      "lon": -115.2423718,
+      "tags": {
+        "addr:housenumber": "2001",
+        "addr:postcode": "89108",
+        "addr:street": "North Rainbow Boulevard",
+        "amenity": "restaurant",
+        "cuisine": "italian",
+        "name": "Romano's Macaroni Grill - Summerlin",
+        "opening_hours": "Mo-Th 11:00-22:00; Fr-Sa 11:00-23:00; Su 10:00-22:00",
+        "phone": "17026486688",
+        "website": "http://www.romanogrill.com"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3861630916,
+      "lat": 36.1972215,
+      "lon": -115.2404869,
+      "tags": {
+        "addr:housenumber": "2080",
+        "addr:postcode": "89108-7049",
+        "addr:street": "North Rainbow Boulevard",
+        "amenity": "restaurant",
+        "name": "Sweet Tomatoes",
+        "opening_hours": "Mo-Th 11:00-21:00; Fr 11:00-22:00; Sa 08:00-22:00; Su 08:00-21:00",
+        "phone": "17026481957",
+        "website": "http://www.sweettomattoes.com"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3861630917,
+      "lat": 36.1973887,
+      "lon": -115.2413638,
+      "tags": {
+        "addr:housenumber": "2070",
+        "addr:postcode": "89108",
+        "addr:state": "NV",
+        "addr:street": "North Rainbow Boulevard",
+        "alt_name": "Applebee's",
+        "amenity": "restaurant",
+        "brand": "Applebee's",
+        "brand:wikidata": "Q621532",
+        "cuisine": "american",
+        "name": "Applebee's Neighborhood Grill & Bar",
+        "opening_hours": "Mo-Su 11:00-00:00",
+        "phone": "17026481064",
+        "website": "http://www.applebees.com"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3861630923,
+      "lat": 36.1957617,
+      "lon": -115.2488571,
+      "tags": {
+        "addr:housenumber": "7175",
+        "addr:postcode": "89128",
+        "addr:street": "West Lake Mead Boulevard",
+        "amenity": "restaurant",
+        "name": "Panera Bread",
+        "opening_hours": "Mo-Sa 06:30-22:00; Su 10:00-21:00",
+        "phone": "1702404488"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4113362314,
+      "lat": 36.1583569,
+      "lon": -115.1164092,
+      "tags": {
+        "amenity": "restaurant",
+        "name": "Pepe's Tacos"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4158742790,
+      "lat": 36.1716612,
+      "lon": -115.2066489,
+      "tags": {
+        "addr:housenumber": "200",
+        "addr:street": "South Decatur Boulevard",
+        "amenity": "restaurant",
+        "name": "Red Lobster"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4179884599,
+      "lat": 36.181287,
+      "lon": -115.0794039,
+      "tags": {
+        "amenity": "restaurant",
+        "name": "Roberto's Taco Shop"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4200473991,
+      "lat": 36.2171681,
+      "lon": -115.2427391,
+      "tags": {
+        "addr:housenumber": "3131",
+        "addr:postcode": "89108",
+        "addr:street": "North Rainbow Boulevard",
+        "amenity": "restaurant",
+        "name": "Krazy Buffet",
+        "opening_hours": "Mo-Su 10:30-21:30",
+        "phone": "702-431-6699",
+        "website": "http://www.crazybuffetvegas.com"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4448938394,
+      "lat": 36.143908,
+      "lon": -115.2949274,
+      "tags": {
+        "addr:housenumber": "9091",
+        "addr:postcode": "89117",
+        "addr:street": "West Sahara Avenue",
+        "amenity": "restaurant",
+        "cuisine": "coffee_shop",
+        "internet_access": "wlan",
+        "name": "The Coffee Bean",
+        "opening_hours": "Mo-Fr 05:30-20:00; Sa 06:00-20:00; Su 06:00-19:00",
+        "phone": "17029980214",
+        "website": "http://www.thecoffeebean.com"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4448942296,
+      "lat": 36.1440852,
+      "lon": -115.2969708,
+      "tags": {
+        "addr:housenumber": "9151",
+        "addr:postcode": "89117",
+        "addr:street": "West Sahara Avenue",
+        "amenity": "restaurant",
+        "cuisine": "coffee_shop",
+        "internet_access": "wlan",
+        "name": "Starbucks",
+        "name:en": "Starbucks",
+        "opening_hours": "Mo-Sa 05:00-20:00; Su 06:00-19:00",
+        "phone": "17022335797",
+        "website": "http://www.starbucks.com"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4448970995,
+      "lat": 36.1441923,
+      "lon": -115.2657307,
+      "tags": {
+        "addr:housenumber": "8000",
+        "addr:postcode": "89117",
+        "addr:street": "West Sahara Avenue",
+        "amenity": "restaurant",
+        "name": "smoothie king",
+        "opening_hours": "Mo-Fr 07:00-21:00; Sa 09:00-21:00; Su 11:00-19:00",
+        "phone": "17023845464",
+        "website": "http://www.smoothieking.com"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4448970997,
+      "lat": 36.1438389,
+      "lon": -115.294307,
+      "tags": {
+        "addr:housenumber": "9041",
+        "addr:postcode": "89117-5745",
+        "addr:street": "West Sahara Avenue",
+        "amenity": "restaurant",
+        "cuisine": "bagel",
+        "internet_access": "wlan",
+        "name": "Einstein Bros. bagels",
+        "opening_hours": "Mo-Fr 05:00-16:00; Sa 06:00-16:00; Su 06:00-15:00",
+        "phone": "17022540919",
+        "website": "http://www.einstinebagels.com"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4448987190,
+      "lat": 36.1450267,
+      "lon": -115.1760847,
+      "tags": {
+        "addr:housenumber": "2600",
+        "addr:postcode": "89102",
+        "addr:street": "West Sahara Avenue",
+        "amenity": "restaurant",
+        "cuisine": "sandwich",
+        "name": "Subway",
+        "opening_hours": "Mo-Fr 07:00-22:00; Sa 08:00-22:00; Su 09:00-22:00",
+        "phone": "17024899005",
+        "website": "http://www.subway.com"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4449013291,
+      "lat": 36.1442517,
+      "lon": -115.2663741,
+      "tags": {
+        "addr:housenumber": "8000 suits 109",
+        "addr:postcode": "89117",
+        "addr:street": "West Sahara Avenue",
+        "amenity": "restaurant",
+        "cuisine": "breakfast;pancake",
+        "internet_access": "wlan",
+        "name": "Denny's",
+        "opening_hours": "24/7",
+        "phone": "17029488382",
+        "website": "http://www.dennys.com"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4450380193,
+      "lat": 36.1595147,
+      "lon": -115.319699,
+      "tags": {
+        "addr:housenumber": "10260",
+        "addr:postcode": "89135-1040",
+        "addr:street": "West Charleston Boulevard",
+        "amenity": "restaurant",
+        "cuisine": "sandwich",
+        "name": "Port of Subs",
+        "opening_hours": "Mo-Fr 07:00-21:30; Sa 07:00-21:00; Su 09:00-20:00",
+        "phone": "1708380727",
+        "website": "http://www.portofsubs.com"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4451014894,
+      "lat": 36.1594081,
+      "lon": -115.3192351,
+      "tags": {
+        "addr:housenumber": "10260",
+        "addr:postcode": "89135-1040",
+        "addr:street": "West Charleston Boulevard",
+        "amenity": "restaurant",
+        "cuisine": "pizza",
+        "name": "Pizza Hut",
+        "name:en": "Pizza Hut",
+        "opening_hours": "Su-Th 10:30-23:00; Fr-Sa 10:35-00:00",
+        "phone": "17023419110",
+        "website": "http://www.pizzahut.com"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4453351790,
+      "lat": 36.1448088,
+      "lon": -115.2973374,
+      "tags": {
+        "addr:housenumber": "9240",
+        "addr:postcode": "89117-5727",
+        "addr:street": "West Sahara Avenue",
+        "amenity": "restaurant",
+        "cuisine": "mexican",
+        "name": "Chipotle",
+        "name:en": "Chipotle",
+        "opening_hours": "Mo-Su 11:00-22:00",
+        "phone": "17022430226",
+        "website": "http://www.chipotle.com"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4453922791,
+      "lat": 36.1582907,
+      "lon": -115.2905195,
+      "tags": {
+        "addr:housenumber": "1100",
+        "addr:postcode": "89117",
+        "addr:street": "West Charleston Boulevard",
+        "amenity": "restaurant",
+        "name": "Claim Jumper",
+        "name:en": "Claim Jumper",
+        "opening_hours": "Su-Th 11:00-21:30; Fr-Sa 11:00-22:30",
+        "phone": "17022438751",
+        "website": "http://www.claimjumper.com"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4458121490,
+      "lat": 36.1440822,
+      "lon": -115.1553174,
+      "tags": {
+        "addr:housenumber": "2244",
+        "addr:postcode": "89104",
+        "addr:street": "Paradise Road",
+        "amenity": "restaurant",
+        "cuisine": "sandwich",
+        "name": "Subway",
+        "opening_hours": "24/7",
+        "phone": "17020164",
+        "website": "http://www.subway.com"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4458140089,
+      "lat": 36.1457323,
+      "lon": -115.1563579,
+      "tags": {
+        "addr:housenumber": "2210",
+        "addr:postcode": "89104",
+        "addr:street": "South Las Vegas Boulevard",
+        "amenity": "restaurant",
+        "name": "IHOP",
+        "opening_hours": "24/7",
+        "phone": "17023846412",
+        "website": "http://www.ihop.com"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4460324685,
+      "lat": 36.1974106,
+      "lon": -115.2560444,
+      "tags": {
+        "addr:housenumber": "7460",
+        "addr:postcode": "89128",
+        "addr:street": "W Lake Mead blvd",
+        "amenity": "restaurant",
+        "name": "Round table pizza",
+        "website": "http://www.roundtablepizza.com"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4515437690,
+      "lat": 36.1750058,
+      "lon": -115.2236492,
+      "tags": {
+        "addr:housenumber": "108",
+        "addr:postcode": "89107",
+        "addr:street": "North Jones Boulevard",
+        "amenity": "restaurant",
+        "name": "McDonald's",
+        "phone": "17028703032",
+        "website": "http://www.mcdonalds"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4605570516,
+      "lat": 36.2914395,
+      "lon": -115.3157874,
+      "tags": {
+        "addr:city": "Las Vegas",
+        "addr:housenumber": "7181",
+        "addr:postcode": "89166",
+        "addr:state": "NV",
+        "addr:street": "North Hualapai Way #115",
+        "amenity": "restaurant",
+        "name": "Divine Eatery",
+        "phone": "702-433-4800",
+        "website": "http://divineeatery.net"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4670111621,
+      "lat": 36.14737,
+      "lon": -115.1556559,
+      "tags": {
+        "amenity": "restaurant",
+        "cuisine": "steak_house",
+        "name": "Stratosphere Hotel terraza atracciones",
+        "name:it": "Top of The World"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4670111622,
+      "lat": 36.1477859,
+      "lon": -115.1558086,
+      "tags": {
+        "amenity": "restaurant",
+        "name": "Roxy's Diner"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4670111623,
+      "lat": 36.1481338,
+      "lon": -115.1553938,
+      "tags": {
+        "amenity": "restaurant",
+        "cuisine": "italian",
+        "name": "Fellini’s Ristorante Italiano"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4670111624,
+      "lat": 36.1484066,
+      "lon": -115.1550722,
+      "tags": {
+        "amenity": "restaurant",
+        "name": "McCall’s Heartland Grill"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4670111626,
+      "lat": 36.1475966,
+      "lon": -115.156923,
+      "tags": {
+        "addr:postcode": "89104",
+        "amenity": "restaurant",
+        "cuisine": "mexican",
+        "name": "El Nopal Mexican Grill"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4670111627,
+      "lat": 36.1477049,
+      "lon": -115.1559574,
+      "tags": {
+        "addr:postcode": "89104",
+        "amenity": "restaurant",
+        "cuisine": "pizza",
+        "name": "Nunzio Pizzaria"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4720265891,
+      "lat": 36.1966621,
+      "lon": -115.2617238,
+      "tags": {
+        "addr:housenumber": "7662",
+        "addr:postcode": "89128-6634",
+        "addr:street": "West Lake Mead Boulevard",
+        "amenity": "restaurant",
+        "cuisine": "breakfast",
+        "internet_access": "wlan",
+        "name": "McDonald's",
+        "opening_hours": "Mo-Su 05:00-23:00",
+        "phone": "17022282203",
+        "website": "http://www.mcdonalds.com"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4770476643,
+      "lat": 36.1667361,
+      "lon": -115.1343956,
+      "tags": {
+        "amenity": "restaurant",
+        "name": "Chow"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4770476646,
+      "lat": 36.1685773,
+      "lon": -115.1384204,
+      "tags": {
+        "amenity": "restaurant",
+        "cuisine": "indian",
+        "name": "Turmeric"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4831334522,
+      "lat": 36.1598664,
+      "lon": -115.147479,
+      "tags": {
+        "addr:housenumber": "900",
+        "addr:postcode": "89101",
+        "addr:street": "South Las Vegas Boulevard",
+        "amenity": "restaurant",
+        "cuisine": "sandwich",
+        "name": "The Goodwich",
+        "phone": "+17029108681",
+        "website": "http://thegoodwich.com"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4862802422,
+      "lat": 36.2106694,
+      "lon": -115.2796008,
+      "tags": {
+        "addr:housenumber": "8505",
+        "addr:postcode": "89134",
+        "addr:street": "Del Webb Boulevard",
+        "amenity": "restaurant",
+        "name": "El Burrito",
+        "opening_hours": "Mo-Sa 11:00-21:00; Su 12:00-21:00",
+        "phone": "17022551065",
+        "website": "http://www.elburito.com"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4878779222,
+      "lat": 36.1596085,
+      "lon": -115.2896435,
+      "tags": {
+        "addr:housenumber": "8900",
+        "addr:postcode": "89145",
+        "addr:street": "West Charleston Boulevard",
+        "amenity": "restaurant",
+        "internet_access": "wlan",
+        "name": "Wendy’s",
+        "opening_hours": "Mo-Su 09:00-22:00",
+        "phone": "7029470158",
+        "website": "http://www.wendys.com"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4936693221,
+      "lat": 36.2164995,
+      "lon": -115.2425653,
+      "tags": {
+        "addr:housenumber": "3085",
+        "addr:postcode": "89108",
+        "addr:street": "North Rainbow Boulevard",
+        "amenity": "restaurant",
+        "cuisine": "mexican",
+        "internet_access": "wlan",
+        "name": "Don Tortaco",
+        "opening_hours": "24/7",
+        "phone": "7026438226",
+        "website": "http://www.dontortaco.com"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4938857522,
+      "lat": 36.2187848,
+      "lon": -115.3138002,
+      "tags": {
+        "addr:housenumber": "10030",
+        "addr:postcode": "89129",
+        "addr:street": "West Cheyenne Avenue",
+        "amenity": "restaurant",
+        "cuisine": "mexican",
+        "name": "Roberto’s Taco Shop",
+        "name:en": "roberto's",
+        "opening_hours": "24/7",
+        "phone": "17022280134",
+        "website": "http://www.robertos.com"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4948960922,
+      "lat": 36.1462303,
+      "lon": -115.2424403,
+      "tags": {
+        "addr:housenumber": "2330",
+        "addr:postcode": "89146",
+        "addr:street": "Rainbow Boulevard",
+        "amenity": "restaurant",
+        "name": "Fun Taco",
+        "opening_hours": "Mo-Su 07:00-22:00",
+        "phone": "17027904998"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4948961223,
+      "lat": 36.16008,
+      "lon": -115.3314312,
+      "tags": {
+        "addr:housenumber": "10810",
+        "addr:postcode": "89135",
+        "addr:street": "West Charleston Boulevard",
+        "amenity": "restaurant",
+        "name": "Islands",
+        "name:en": "Islands",
+        "opening_hours": "Su-Th 11:00-21:30; Fr-Sa 11:00-22:30",
+        "phone": "17023603845",
+        "website": "http://www.islandsresurants.com"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4966302221,
+      "lat": 36.2163035,
+      "lon": -115.242405,
+      "tags": {
+        "addr:housenumber": "3081",
+        "addr:postcode": "89108",
+        "addr:street": "North Rainbow Boulevard",
+        "amenity": "restaurant",
+        "name": "Marie Callenders",
+        "opening_hours": "Mo-Su 07:00-22:00",
+        "phone": "17026558200",
+        "website": "http://www.maricallenders.com"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4978162121,
+      "lat": 36.1594111,
+      "lon": -115.286456,
+      "tags": {
+        "addr:state": "NV",
+        "amenity": "restaurant",
+        "brand": "Applebee's",
+        "brand:wikidata": "Q621532",
+        "cuisine": "american",
+        "name": "Applebee's Neighborhood Grill & Bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4994190422,
+      "lat": 36.1447814,
+      "lon": -115.2948341,
+      "tags": {
+        "addr:housenumber": "9002",
+        "addr:postcode": "89117",
+        "addr:street": "West Sahara Avenue",
+        "amenity": "restaurant",
+        "cuisine": "chinese",
+        "name": "china Gourment",
+        "name:en": "china",
+        "opening_hours": "Mo-We 10:30-22:00; Th-Sa 10:30-23:00; Su 11:00-21:00",
+        "phone": "17029481500",
+        "website": "http://www.chinagourmetlasvegasyolasite.com"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5202975221,
+      "lat": 36.1615434,
+      "lon": -115.2910544,
+      "tags": {
+        "addr:housenumber": "900",
+        "addr:postcode": "89145-5800",
+        "addr:street": "South Rampart Boulevard",
+        "amenity": "restaurant",
+        "internet_access": "wlan",
+        "name": "McDonald’s",
+        "opening_hours": "24/7",
+        "phone": "7029405469",
+        "website": "http://www.mcdonalds.com"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5258345879,
+      "lat": 36.1674037,
+      "lon": -115.1394165,
+      "tags": {
+        "addr:city": "Las Vegas",
+        "addr:housenumber": "618 E",
+        "addr:postcode": "89101",
+        "addr:state": "NV",
+        "addr:street": "Carson Avenue",
+        "amenity": "restaurant",
+        "cuisine": "burger;pizza;breakfast;vegan",
+        "delivery": "no",
+        "name": "VegeNation",
+        "phone": "+1 (702) 366-8515",
+        "website": "http://vegenationlasvegas.com"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5343309421,
+      "lat": 36.1424185,
+      "lon": -115.2794419,
+      "tags": {
+        "addr:housenumber": "2551",
+        "addr:postcode": "89117",
+        "addr:street": "South Durango Drive",
+        "amenity": "restaurant",
+        "cuisine": "sandwich",
+        "name": "subway",
+        "opening_hours": "24/7",
+        "phone": "7022547827",
+        "website": "http://www.subway.com"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5343323721,
+      "lat": 36.1422565,
+      "lon": -115.2793616,
+      "tags": {
+        "addr:housenumber": "2555",
+        "addr:postcode": "89117",
+        "addr:street": "South Durango Drive",
+        "amenity": "restaurant",
+        "cuisine": "italian_pizza",
+        "name": "bambino’s east side pizza",
+        "opening_hours": "Mo-Th 11:00-21:00; Fr 11:00-22:00; Sa 09:00-22:00; Su 12:00-21:00",
+        "phone": "7022422266",
+        "website": "http://www.bambinospizza.com"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5390681190,
+      "lat": 36.1596585,
+      "lon": -115.3314112,
+      "tags": {
+        "addr:housenumber": "10800",
+        "addr:postcode": "89135",
+        "addr:street": "West Charleston Boulevard",
+        "amenity": "restaurant",
+        "cuisine": "italian",
+        "name": "Olive Garden",
+        "opening_hours": "Su-Th 11:00-22:00; Fr-Sa 11:00-23:00",
+        "phone": "17023418190",
+        "website": "http://www.olivegarden.com"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5390681191,
+      "lat": 36.1596681,
+      "lon": -115.3319331,
+      "tags": {
+        "addr:housenumber": "10840",
+        "addr:postcode": "89135",
+        "addr:street": "West Charleston Boulevard",
+        "amenity": "restaurant",
+        "name": "BJ's Restaurant & Brewhouse",
+        "opening_hours": "Su-Th 10:00-23:00; Fr-Sa 10:00-00:00",
+        "phone": "17028532300",
+        "website": "http://www.bjrestaurant.com"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5398375924,
+      "lat": 36.1434814,
+      "lon": -115.2981148,
+      "tags": {
+        "addr:housenumber": "2521",
+        "addr:postcode": "89117",
+        "addr:street": "South Fort Apache Road",
+        "amenity": "restaurant",
+        "name": "Apache Taco shop",
+        "opening_hours": "24/7",
+        "phone": "7022282025"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5405376621,
+      "lat": 36.2400369,
+      "lon": -115.2487304,
+      "tags": {
+        "amenity": "restaurant",
+        "name": "Tommy’s"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5412541021,
+      "lat": 36.1971671,
+      "lon": -115.2577461,
+      "tags": {
+        "addr:housenumber": "7500",
+        "addr:postcode": "89128",
+        "addr:street": "west Lake Mead",
+        "amenity": "restaurant",
+        "name": "subway",
+        "opening_hours": "24/7",
+        "phone": "17027540258",
+        "website": "http://www.subway.com"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5414725921,
+      "lat": 36.143645,
+      "lon": -115.2816055,
+      "tags": {
+        "addr:housenumber": "8699",
+        "addr:postcode": "89117",
+        "addr:street": "West Sahara Avenue",
+        "amenity": "restaurant",
+        "cuisine": "burger",
+        "internet_access": "wlan",
+        "name": "Burger King",
+        "opening_hours": "Mo-Fr 06:00-00:00; Sa-Su 07:00-00:00",
+        "phone": "17022423889",
+        "website": "http://www.bk.com"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5414725922,
+      "lat": 36.1437272,
+      "lon": -115.2809208,
+      "tags": {
+        "addr:housenumber": "8671",
+        "addr:postcode": "89117-5830",
+        "addr:street": "West Sahara Avenue",
+        "amenity": "restaurant",
+        "name": "The Outback",
+        "opening_hours": "Mo-Su 11:00-22:00",
+        "phone": "17022281088",
+        "website": "http://www.outback.com"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5416278322,
+      "lat": 36.1446099,
+      "lon": -115.2949733,
+      "tags": {
+        "addr:housenumber": "9002",
+        "addr:postcode": "89117-5773",
+        "addr:street": "West Sahara Avenue",
+        "amenity": "restaurant",
+        "cuisine": "mexican",
+        "name": "Cafe Rio",
+        "opening_hours": "Mo-We 10:30-22:00; Th-Sa 10:30-23:00; Su 11:00-21:00",
+        "phone": "17029481500",
+        "website": "http://www.caferio.com"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5437996422,
+      "lat": 36.1633439,
+      "lon": -115.2890008,
+      "tags": {
+        "addr:housenumber": "740",
+        "addr:postcode": "89117",
+        "addr:street": "South Rampart Boulevard",
+        "amenity": "restaurant",
+        "cuisine": "bagel",
+        "internet_access": "wlan",
+        "name": "Panera Bread",
+        "opening_hours": "Mo-Sa 06:30-22:00; Su 06:30-21:00",
+        "phone": "17028880100",
+        "website": "http://www.panerabread.com"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5439489221,
+      "lat": 36.1595578,
+      "lon": -115.2863766,
+      "tags": {
+        "amenity": "restaurant",
+        "name": "Giordano’s"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5443591721,
+      "lat": 36.1455153,
+      "lon": -115.3151309,
+      "tags": {
+        "addr:housenumber": "10060",
+        "addr:postcode": "89117",
+        "addr:street": "West Sahara Avenue",
+        "amenity": "restaurant",
+        "cuisine": "pizza",
+        "email": "123lasvegas@blazepizza.com",
+        "name": "Blazing Pizza",
+        "name:en": "Blaze Pizza",
+        "opening_hours": "Mo-Su 11:00-22:00",
+        "phone": "17025147113",
+        "website": "http://www.blazepizza"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5512410424,
+      "lat": 36.145612,
+      "lon": -115.1727802,
+      "tags": {
+        "addr:housenumber": "2400",
+        "addr:postcode": "89102",
+        "addr:street": "South Rancho Drive",
+        "amenity": "restaurant",
+        "internet_access": "wlan",
+        "name": "Panera Bread",
+        "opening_hours": "Mo-Su 06:00-22:00",
+        "phone": "+17029098980",
+        "website": "http://wwwpanarabred.com"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5512412007,
+      "lat": 36.1456091,
+      "lon": -115.1723473,
+      "tags": {
+        "addr:housenumber": "2400 suit 100",
+        "addr:postcode": "89102",
+        "addr:street": "South Rancho Drive",
+        "amenity": "restaurant",
+        "cuisine": "pizza",
+        "internet_access": "wlan",
+        "name": "PizzaRev",
+        "opening_hours": "Mo-Su 11:00-23:00",
+        "phone": "+17026656170",
+        "website": "http://www.revpizza.com"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5512699866,
+      "lat": 36.1445934,
+      "lon": -115.1551455,
+      "tags": {
+        "amenity": "restaurant",
+        "cuisine": "Thai",
+        "name": "Thai Pepper"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5540679135,
+      "lat": 36.1452466,
+      "lon": -115.1796291,
+      "tags": {
+        "amenity": "restaurant",
+        "name": "la cabaña"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5566853022,
+      "lat": 36.1456829,
+      "lon": -115.1727832,
+      "tags": {
+        "addr:housenumber": "2400",
+        "addr:postcode": "89102",
+        "addr:street": "South Rancho Drive",
+        "amenity": "restaurant",
+        "internet_access": "wlan",
+        "name": "pandora bread",
+        "name:en": "Panera Bread",
+        "phone": "17029098980",
+        "website": "http://panerabread.com"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5575075940,
+      "lat": 36.1945794,
+      "lon": -115.2417087,
+      "tags": {
+        "addr:housenumber": "1950",
+        "addr:postcode": "89108-2797",
+        "addr:street": "North Rainbow Boulevard",
+        "amenity": "restaurant",
+        "cuisine": "steak_house",
+        "name": "Outback Steakhouse",
+        "phone": "17026471035",
+        "website": "http://www.outback.com",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5576770296,
+      "lat": 36.2198475,
+      "lon": -115.2502829,
+      "tags": {
+        "amenity": "restaurant",
+        "cuisine": "breakfast;American;egg",
+        "name": "Breakfast Bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5583577065,
+      "lat": 36.1676137,
+      "lon": -115.1386057,
+      "tags": {
+        "amenity": "restaurant",
+        "cuisine": "BBQ;southern",
+        "name": "BBQ"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5583644715,
+      "lat": 36.1678734,
+      "lon": -115.1406082,
+      "tags": {
+        "amenity": "restaurant",
+        "name": "Carsen"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5589324491,
+      "lat": 36.191393,
+      "lon": -115.2596216,
+      "tags": {
+        "amenity": "restaurant",
+        "cuisine": "Mexican",
+        "name": "Casa Don Juan"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5589334845,
+      "lat": 36.1914873,
+      "lon": -115.2596624,
+      "tags": {
+        "amenity": "restaurant",
+        "cuisine": "Mexican",
+        "name": "Casa Don Juan"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5597408402,
+      "lat": 36.1953743,
+      "lon": -115.2483008,
+      "tags": {
+        "amenity": "restaurant",
+        "cuisine": "Greek",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5599411417,
+      "lat": 36.1952347,
+      "lon": -115.2481878,
+      "tags": {
+        "amenity": "restaurant",
+        "cuisine": "Vietnamese;soup;pho;sandwich",
+        "name": "Viet Bistro",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5600702635,
+      "lat": 36.2625515,
+      "lon": -115.2563007,
+      "tags": {
+        "amenity": "restaurant",
+        "name": "The Cracked Egg"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5635712724,
+      "lat": 36.2194164,
+      "lon": -115.2448775,
+      "tags": {
+        "addr:housenumber": "6870",
+        "addr:postcode": "89108",
+        "addr:street": "West Cheyenne Avenue",
+        "amenity": "restaurant",
+        "cuisine": "american;breakfast",
+        "name": "IHOP",
+        "opening_hours": "24/7",
+        "phone": "17026563220",
+        "website": "http://www.ihop.com"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5650208545,
+      "lat": 36.1447326,
+      "lon": -115.3135753,
+      "tags": {
+        "addr:housenumber": "10040",
+        "addr:postcode": "89117-0306",
+        "addr:street": "West Sahara Avenue",
+        "amenity": "restaurant",
+        "cuisine": "burger",
+        "name": "In-n-out Burger",
+        "opening_hours": "Su-Th 10:30-01:00; Fr-Sa 10:30-01:30",
+        "phone": "18007861000",
+        "website": "http://www.innoutburger.com"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5894043988,
+      "lat": 36.1616202,
+      "lon": -115.1738408,
+      "tags": {
+        "addr:housenumber": "840",
+        "addr:postcode": "89106",
+        "addr:street": "South Rancho Drive",
+        "amenity": "restaurant",
+        "cuisine": "mexican",
+        "name": "Robertos",
+        "opening_hours": "24/7",
+        "phone": "17028784933",
+        "website": "http://www.roberos.com"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5899958885,
+      "lat": 36.144786,
+      "lon": -115.3141617,
+      "tags": {
+        "addr:housenumber": "10050",
+        "addr:postcode": "89117–6013",
+        "addr:street": "West Sahara Avenue",
+        "amenity": "restaurant",
+        "cuisine": "chicken",
+        "name": "Raising Canes",
+        "opening_hours": "Mo-Su 09:00-00:00",
+        "phone": "+17024892555",
+        "website": "http://www.raisingcains.com"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5899958986,
+      "lat": 36.1449137,
+      "lon": -115.3018312,
+      "tags": {
+        "addr:housenumber": "9500",
+        "addr:postcode": "89117",
+        "addr:street": "West Sahara Avenue",
+        "amenity": "restaurant",
+        "cuisine": "italian",
+        "name": "Siena Italian authentic trattoria & deli",
+        "opening_hours": "Su-Tu 11:00-22:00; We-Th 11:00-23:00; Fr-Sa 11:00-00:00",
+        "phone": "17023603358",
+        "website": "http://www.sienaitalian.com"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5899976185,
+      "lat": 36.1448635,
+      "lon": -115.3011188,
+      "tags": {
+        "addr:housenumber": "9480",
+        "addr:postcode": "89117",
+        "addr:street": "West Sahara Avenue",
+        "amenity": "restaurant",
+        "cuisine": "breakfast;pancake",
+        "internet_access": "wlan",
+        "name": "IHOP",
+        "opening_hours": "Su-Th 06:00-14:00, 15:00-22:00; Fr-Sa 06:00-00:00",
+        "phone": "17023419009",
+        "website": "http://www.ihop.com"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5899976285,
+      "lat": 36.14482,
+      "lon": -115.3007631,
+      "tags": {
+        "addr:housenumber": "9460",
+        "addr:postcode": "89117",
+        "addr:street": "West Sahara Avenue",
+        "amenity": "restaurant",
+        "cuisine": "mexican;chicken",
+        "internet_access": "wlan",
+        "name": "el pollo loco",
+        "opening_hours": "Mo-Su 10:00-23:00",
+        "phone": "17022546037",
+        "website": "http://www.elpolloloco.com"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5909448585,
+      "lat": 36.1588027,
+      "lon": -115.2086855,
+      "tags": {
+        "addr:housenumber": "5117",
+        "addr:postcode": "89146-1434",
+        "addr:street": "West Charleston Boulevard",
+        "amenity": "restaurant",
+        "cuisine": "mexican",
+        "name": "Robertos Taco Shop",
+        "opening_hours": "24/7",
+        "phone": "17028222209",
+        "website": "http://www.robertos.com"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5914443585,
+      "lat": 36.2187893,
+      "lon": -115.3140503,
+      "tags": {
+        "amenity": "restaurant",
+        "name": "Rosita pizza"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5919205985,
+      "lat": 36.1447456,
+      "lon": -115.3028737,
+      "tags": {
+        "addr:housenumber": "9560",
+        "addr:postcode": "89117",
+        "addr:street": "West Sahara Avenue",
+        "amenity": "restaurant",
+        "cuisine": "mexican",
+        "name": "Nacho Daddy",
+        "opening_hours": "Su-Th 11:00-22:00; Fr-Sa 11:00-23:00",
+        "phone": "+17024622298",
+        "website": "http://www.nachodaady.com"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5931487491,
+      "lat": 36.1453218,
+      "lon": -115.2950396,
+      "tags": {
+        "addr:housenumber": "9014",
+        "addr:postcode": "89117-5744",
+        "addr:street": "West Sahara Avenue",
+        "amenity": "restaurant",
+        "cuisine": "pizza",
+        "name": "Pizza Hut",
+        "opening_hours": "Su-Th 10:30-23:00; Fr-Sa 10:30-00:00",
+        "phone": "+17023635555",
+        "website": "http://www.pizzahut.com"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5937092985,
+      "lat": 36.1446506,
+      "lon": -115.1374782,
+      "tags": {
+        "addr:housenumber": "2440",
+        "addr:postcode": "89104",
+        "addr:street": "South Maryland Parkway",
+        "amenity": "restaurant",
+        "cuisine": "chicken",
+        "name": "pollo inka express",
+        "opening_hours": "Mo-Su 10:30-22:30",
+        "phone": "+17025227871",
+        "website": "http://polloinkaexpress.com"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5940223985,
+      "lat": 36.1584828,
+      "lon": -115.2626719,
+      "tags": {
+        "addr:housenumber": "7801",
+        "addr:postcode": "89117",
+        "addr:street": "West Charleston Boulevard",
+        "amenity": "restaurant",
+        "cuisine": "mexican",
+        "name": "Roberto’s",
+        "opening_hours": "24/7",
+        "phone": "+17026859090",
+        "website": "http://www.robertos.com"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5940229786,
+      "lat": 36.1584014,
+      "lon": -115.2627582,
+      "tags": {
+        "addr:housenumber": "7801",
+        "addr:postcode": "89117",
+        "addr:street": "West Charleston Boulevard",
+        "amenity": "restaurant",
+        "cuisine": "mexican",
+        "name": "Roberto’s Taco Shop",
+        "opening_hours": "24/7",
+        "phone": "+17026859090",
+        "website": "http://www.robertos.com"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5940318485,
+      "lat": 36.1586654,
+      "lon": -115.2047718,
+      "tags": {
+        "addr:housenumber": "4675",
+        "addr:postcode": "89102-1548",
+        "addr:street": "West Charleston Boulevard",
+        "amenity": "restaurant",
+        "name": "Freddy’s Frozen Custard",
+        "opening_hours": "Su-Th 10:30-22:00; Fr-Sa 10:30-23:00",
+        "phone": "+17028226543",
+        "website": "http://www.freddys.com"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5940439992,
+      "lat": 36.1587106,
+      "lon": -115.204279,
+      "tags": {
+        "addr:housenumber": "4655",
+        "addr:postcode": "89102-1548",
+        "addr:street": "West Charleston Boulevard",
+        "amenity": "restaurant",
+        "cuisine": "chicken",
+        "name": "Raising Cane’s",
+        "opening_hours": "Mo-Su 09:00-00:00",
+        "phone": "+17022942262",
+        "website": "http://www.raisingcanes.com"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5966002885,
+      "lat": 36.1448083,
+      "lon": -115.2009963,
+      "tags": {
+        "amenity": "restaurant",
+        "name": "Kentucky fried chicken"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5979581486,
+      "lat": 36.1591875,
+      "lon": -115.1200388,
+      "tags": {
+        "addr:housenumber": "2033",
+        "addr:postcode": "89104",
+        "addr:street": "East Charleston Boulevard",
+        "amenity": "restaurant",
+        "name": "Taco Bell",
+        "opening_hours": "Su-Th 07:00-02:00; Fr-Sa 07:00-03:00",
+        "phone": "+170277871120",
+        "website": "http://www.tacobell.com"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5979597485,
+      "lat": 36.1592245,
+      "lon": -115.1261054,
+      "tags": {
+        "addr:housenumber": "1741",
+        "addr:postcode": "89104",
+        "addr:street": "East Charleston Boulevard",
+        "amenity": "restaurant",
+        "cuisine": "mexican",
+        "name": "mcayo",
+        "opening_hours": "Su-Th 11:00-21:00; Fr-Sa 11:00-22:00",
+        "phone": "+17023825605",
+        "website": "http://www.mcayo.com"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6002100688,
+      "lat": 36.1614509,
+      "lon": -115.2444129,
+      "tags": {
+        "addr:housenumber": "907",
+        "addr:postcode": "89145",
+        "addr:street": "South Rainbow Boulevard",
+        "amenity": "restaurant",
+        "cuisine": "mexican",
+        "name": "Roberto’s Taco Shop",
+        "opening_hours": "24/7",
+        "phone": "+17022582699",
+        "website": "http://www.robertos.com"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6002215786,
+      "lat": 36.1614652,
+      "lon": -115.2441945,
+      "tags": {
+        "addr:housenumber": "903",
+        "addr:postcode": "89146",
+        "addr:street": "South Rainbow Boulevard",
+        "amenity": "restaurant",
+        "name": "Wing Shop",
+        "opening_hours": "Mo-Su 10:30-18:00",
+        "phone": "+17028226722",
+        "website": "http://www.wingshop.com"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6002297887,
+      "lat": 36.1607873,
+      "lon": -115.244424,
+      "tags": {
+        "addr:housenumber": "949",
+        "addr:postcode": "89145",
+        "addr:street": "South Rainbow Boulevard",
+        "amenity": "restaurant",
+        "name": "Port of Subs",
+        "opening_hours": "Mo-Sa 09:00-20:00; Su 11:00-18:00"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6002364702,
+      "lat": 36.1580825,
+      "lon": -115.243978,
+      "tags": {
+        "addr:housenumber": "1105",
+        "addr:postcode": "89146",
+        "addr:street": "South Rainbow Boulevard",
+        "amenity": "restaurant",
+        "name": "Subawy",
+        "opening_hours": "24/7",
+        "phone": "+17023040973",
+        "website": "http://www.subway.com"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6015570886,
+      "lat": 36.1894098,
+      "lon": -115.2418155,
+      "tags": {
+        "addr:housenumber": "6650",
+        "addr:postcode": "89108",
+        "addr:street": "West Vegas Drive",
+        "amenity": "restaurant",
+        "cuisine": "mexican",
+        "name": "Robertos Taco Shop",
+        "opening_hours": "24/7",
+        "phone": "+17026313600",
+        "website": "http://www.robertostacosop.com"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6021581386,
+      "lat": 36.1447954,
+      "lon": -115.2009967,
+      "tags": {
+        "addr:housenumber": "4420",
+        "addr:postcode": "89102",
+        "addr:street": "West Sahara Avenue",
+        "amenity": "restaurant",
+        "cuisine": "chicken",
+        "name": "KFC",
+        "name:en": "Kentucky Fried Chicken",
+        "opening_hours": "Su-Th 10:00-23:00; Fr-Sa 10:00-00:00",
+        "phone": "+17023620058",
+        "website": "http://www.kfc.com"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6042994985,
+      "lat": 36.1612953,
+      "lon": -115.2869211,
+      "tags": {
+        "amenity": "restaurant",
+        "name": "Cheesecake Factory"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6068944685,
+      "lat": 36.1439887,
+      "lon": -115.1899123,
+      "tags": {
+        "amenity": "restaurant",
+        "cuisine": "curry;indian",
+        "name": "Mt. Everest India Cuisine",
+        "opening_hours": "Mo-Su 11:00-15:00, 17:00-22:00",
+        "website": "http://www.mteverestcuisine.com"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6173915382,
+      "lat": 36.2623031,
+      "lon": -115.2479065,
+      "tags": {
+        "amenity": "restaurant",
+        "name": "Asian Kitchen"
+      }
+    },
+    {
+      "type": "way",
+      "id": 258742836,
+      "nodes": [
+        2640753773,
+        2640753759,
+        2640753758,
+        2640753772,
+        2640753773
+      ],
+      "tags": {
+        "addr:housenumber": "4400",
+        "addr:postcode": "89102-3742",
+        "addr:street": "West Sahara Avenue",
+        "amenity": "restaurant",
+        "building": "yes",
+        "building:levels": "1",
+        "cuisine": "american",
+        "name": "Wendy's",
+        "opening_hours": "Mo-Su 09:00-01:00",
+        "phone": "+17028738795",
+        "website": "http://www.wendys.com"
+      }
+    },
+    {
+      "type": "way",
+      "id": 276426262,
+      "nodes": [
+        2810207911,
+        2810207912,
+        2810207913,
+        2810207914,
+        2810207911
+      ],
+      "tags": {
+        "amenity": "restaurant",
+        "building": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 276426298,
+      "nodes": [
+        2810193869,
+        2810193870,
+        2810193871,
+        2810193872,
+        2810193873,
+        2810193874,
+        2810193875,
+        2810193876,
+        2810193877,
+        2810193878,
+        2810193879,
+        2810193869
+      ],
+      "tags": {
+        "amenity": "restaurant",
+        "building": "yes",
+        "name": "bourbon street sports bar"
+      }
+    },
+    {
+      "type": "way",
+      "id": 276426414,
+      "nodes": [
+        2810206752,
+        2810206758,
+        2810206757,
+        2810206756,
+        2810206752
+      ],
+      "tags": {
+        "amenity": "restaurant",
+        "building": "yes",
+        "cuisine": "japanese"
+      }
+    },
+    {
+      "type": "way",
+      "id": 276427190,
+      "nodes": [
+        2810223943,
+        2810223944,
+        2810223945,
+        2810223946,
+        2810223943
+      ],
+      "tags": {
+        "amenity": "restaurant",
+        "building": "yes",
+        "name": "Denny's"
+      }
+    },
+    {
+      "type": "way",
+      "id": 316303731,
+      "nodes": [
+        3224127655,
+        3224127656,
+        3224127657,
+        3224127658,
+        3224127659,
+        3224127660,
+        3224127761,
+        3224127762,
+        3224127763,
+        3224127655
+      ],
+      "tags": {
+        "amenity": "restaurant",
+        "building": "yes",
+        "name": "Viva Las Arepas"
+      }
+    },
+    {
+      "type": "way",
+      "id": 321034358,
+      "nodes": [
+        3277486717,
+        3277486718,
+        3277486719,
+        3277486720,
+        3277486717
+      ],
+      "tags": {
+        "addr:city": "Las Vegas",
+        "addr:housenumber": "2380",
+        "addr:postcode": "89146",
+        "addr:state": "NV",
+        "addr:street": "Rainbow Boulevard",
+        "amenity": "restaurant",
+        "building": "yes",
+        "building:levels": "1",
+        "cuisine": "chinese;asia;pizza;crab_all_you_can_eat",
+        "name": "Buffet@Asia",
+        "note": "Très variés,bon prix",
+        "opening_hours": "11:00-21:30",
+        "phone": "+1 702-307-8800"
+      }
+    },
+    {
+      "type": "way",
+      "id": 467627211,
+      "nodes": [
+        4622305151,
+        4622305152,
+        4622305153,
+        4622305154,
+        4622305155,
+        4622305156,
+        4622305151
+      ],
+      "tags": {
+        "amenity": "restaurant",
+        "building": "retail",
+        "cuisine": "mexican",
+        "name": "Border Grill"
+      }
+    },
+    {
+      "type": "way",
+      "id": 479815108,
+      "nodes": [
+        4728565756,
+        4728565757,
+        4728565758,
+        4728565759,
+        4728565756
+      ],
+      "tags": {
+        "amenity": "restaurant",
+        "building": "yes",
+        "cuisine": "wine_bar_and_restaurant",
+        "name": "Bin 702"
+      }
+    },
+    {
+      "type": "way",
+      "id": 479815110,
+      "nodes": [
+        4728579491,
+        4728579492,
+        4728579493,
+        4728579494,
+        4728579491
+      ],
+      "tags": {
+        "amenity": "restaurant",
+        "building": "yes",
+        "name": "Oak and Ivey Bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3277486717,
+      "lat": 36.1447348,
+      "lon": -115.24245
+    },
+    {
+      "type": "node",
+      "id": 3277486718,
+      "lat": 36.1445853,
+      "lon": -115.2422676
+    },
+    {
+      "type": "node",
+      "id": 3277486719,
+      "lat": 36.1447694,
+      "lon": -115.2420209
+    },
+    {
+      "type": "node",
+      "id": 3277486720,
+      "lat": 36.1449211,
+      "lon": -115.2421925
+    },
+    {
+      "type": "node",
+      "id": 2640753758,
+      "lat": 36.1447775,
+      "lon": -115.2002658
+    },
+    {
+      "type": "node",
+      "id": 2640753759,
+      "lat": 36.1447797,
+      "lon": -115.2001367
+    },
+    {
+      "type": "node",
+      "id": 2640753772,
+      "lat": 36.1450277,
+      "lon": -115.2002722
+    },
+    {
+      "type": "node",
+      "id": 2640753773,
+      "lat": 36.1450298,
+      "lon": -115.2001431
+    },
+    {
+      "type": "node",
+      "id": 2810193869,
+      "lat": 36.1449672,
+      "lon": -115.1756018
+    },
+    {
+      "type": "node",
+      "id": 2810193870,
+      "lat": 36.1449629,
+      "lon": -115.1757037
+    },
+    {
+      "type": "node",
+      "id": 2810193871,
+      "lat": 36.1449282,
+      "lon": -115.1757037
+    },
+    {
+      "type": "node",
+      "id": 2810193872,
+      "lat": 36.1449195,
+      "lon": -115.1758217
+    },
+    {
+      "type": "node",
+      "id": 2810193873,
+      "lat": 36.1448546,
+      "lon": -115.1758164
+    },
+    {
+      "type": "node",
+      "id": 2810193874,
+      "lat": 36.1448589,
+      "lon": -115.1759183
+    },
+    {
+      "type": "node",
+      "id": 2810193875,
+      "lat": 36.1445643,
+      "lon": -115.1759129
+    },
+    {
+      "type": "node",
+      "id": 2810193876,
+      "lat": 36.1445513,
+      "lon": -115.1758432
+    },
+    {
+      "type": "node",
+      "id": 2810193877,
+      "lat": 36.1445167,
+      "lon": -115.1758056
+    },
+    {
+      "type": "node",
+      "id": 2810193878,
+      "lat": 36.144547,
+      "lon": -115.175752
+    },
+    {
+      "type": "node",
+      "id": 2810193879,
+      "lat": 36.144547,
+      "lon": -115.1756232
+    },
+    {
+      "type": "node",
+      "id": 2810206752,
+      "lat": 36.1440272,
+      "lon": -115.1791959
+    },
+    {
+      "type": "node",
+      "id": 2810206756,
+      "lat": 36.1436243,
+      "lon": -115.1792067
+    },
+    {
+      "type": "node",
+      "id": 2810206757,
+      "lat": 36.14362,
+      "lon": -115.1787668
+    },
+    {
+      "type": "node",
+      "id": 2810206758,
+      "lat": 36.1440272,
+      "lon": -115.1787614
+    },
+    {
+      "type": "node",
+      "id": 2810207911,
+      "lat": 36.1448762,
+      "lon": -115.1751994
+    },
+    {
+      "type": "node",
+      "id": 2810207912,
+      "lat": 36.144586,
+      "lon": -115.1751994
+    },
+    {
+      "type": "node",
+      "id": 2810207913,
+      "lat": 36.144573,
+      "lon": -115.1748293
+    },
+    {
+      "type": "node",
+      "id": 2810207914,
+      "lat": 36.1448719,
+      "lon": -115.1748132
+    },
+    {
+      "type": "node",
+      "id": 2810223943,
+      "lat": 36.1492347,
+      "lon": -115.1539306
+    },
+    {
+      "type": "node",
+      "id": 2810223944,
+      "lat": 36.1492889,
+      "lon": -115.1541267
+    },
+    {
+      "type": "node",
+      "id": 2810223945,
+      "lat": 36.1494681,
+      "lon": -115.1540828
+    },
+    {
+      "type": "node",
+      "id": 2810223946,
+      "lat": 36.1494243,
+      "lon": -115.1538532
+    },
+    {
+      "type": "node",
+      "id": 3224127655,
+      "lat": 36.1519977,
+      "lon": -115.1526774
+    },
+    {
+      "type": "node",
+      "id": 3224127656,
+      "lat": 36.1513041,
+      "lon": -115.1527316
+    },
+    {
+      "type": "node",
+      "id": 3224127657,
+      "lat": 36.1513062,
+      "lon": -115.1525716
+    },
+    {
+      "type": "node",
+      "id": 3224127658,
+      "lat": 36.151427,
+      "lon": -115.1525458
+    },
+    {
+      "type": "node",
+      "id": 3224127659,
+      "lat": 36.1518144,
+      "lon": -115.1525097
+    },
+    {
+      "type": "node",
+      "id": 3224127660,
+      "lat": 36.1518144,
+      "lon": -115.1524323
+    },
+    {
+      "type": "node",
+      "id": 3224127761,
+      "lat": 36.1518665,
+      "lon": -115.1524298
+    },
+    {
+      "type": "node",
+      "id": 3224127762,
+      "lat": 36.1518727,
+      "lon": -115.1523988
+    },
+    {
+      "type": "node",
+      "id": 3224127763,
+      "lat": 36.1519894,
+      "lon": -115.1523859
+    },
+    {
+      "type": "node",
+      "id": 4728565756,
+      "lat": 36.1674407,
+      "lon": -115.1387661
+    },
+    {
+      "type": "node",
+      "id": 4728565757,
+      "lat": 36.1674028,
+      "lon": -115.1387031
+    },
+    {
+      "type": "node",
+      "id": 4728565758,
+      "lat": 36.167497,
+      "lon": -115.138628
+    },
+    {
+      "type": "node",
+      "id": 4728565759,
+      "lat": 36.1675327,
+      "lon": -115.138691
+    },
+    {
+      "type": "node",
+      "id": 4728579491,
+      "lat": 36.1673357,
+      "lon": -115.1384335
+    },
+    {
+      "type": "node",
+      "id": 4728579492,
+      "lat": 36.1674418,
+      "lon": -115.1383705
+    },
+    {
+      "type": "node",
+      "id": 4728579493,
+      "lat": 36.1674071,
+      "lon": -115.1382753
+    },
+    {
+      "type": "node",
+      "id": 4728579494,
+      "lat": 36.167301,
+      "lon": -115.138337
+    },
+    {
+      "type": "node",
+      "id": 4622305151,
+      "lat": 36.2646825,
+      "lon": -115.2566525
+    },
+    {
+      "type": "node",
+      "id": 4622305152,
+      "lat": 36.2644493,
+      "lon": -115.2565075
+    },
+    {
+      "type": "node",
+      "id": 4622305153,
+      "lat": 36.2645583,
+      "lon": -115.256238
+    },
+    {
+      "type": "node",
+      "id": 4622305154,
+      "lat": 36.2647375,
+      "lon": -115.2563494
+    },
+    {
+      "type": "node",
+      "id": 4622305155,
+      "lat": 36.2647051,
+      "lon": -115.2564295
+    },
+    {
+      "type": "node",
+      "id": 4622305156,
+      "lat": 36.2647591,
+      "lon": -115.2564631
+    }
+  ]
+}
